@@ -45,19 +45,16 @@ It performs the following tasks:
 
 **Ask maximum temperature**
 
-![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/0aecee5b-d233-4d7a-a170-41e5ccc98073)
-
+![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/82ba05f5-cfc7-4179-8c3e-6244c3935d15)
 
 **Ask minimum temperature**
 
-![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/7a4d506a-0331-4ec3-ac73-ef875cd4c39b)
-
+![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/42956b0a-4056-4c5c-84eb-fd12297fc1c4)
 
 **Ask wind speed**
 
-![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/4dc0d2a1-ec14-483a-a305-a055afa032ca)
+![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/4888ecc5-7536-4e4a-96b3-4203cb64ceb5)
 
 **Result**
 
-![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/56455d01-7cbf-4571-aadd-f637d6f6c44e)
-
+![image](https://github.com/Vicky9890/Weather_Prediction_Analysis/assets/138276603/d2670646-ad30-4c12-ab08-498f262bf87b)
